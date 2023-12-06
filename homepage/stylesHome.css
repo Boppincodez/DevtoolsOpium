@@ -16,7 +16,12 @@ height: 500px;
     .cTap4XL{
         width: 450px;
         height: 300px;
+        border: dotted black;
     }
     .homeText{
         font-family: Garamond, serif;
     }
+  
+.pictures{
+    padding: 10px;
+}
