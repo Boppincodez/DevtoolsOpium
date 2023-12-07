@@ -16,7 +16,7 @@ height: 500px;
     .cTap4XL{
         width: 450px;
         height: 300px;
-        border: dotted black;
+        border: solid Red;
     }
     .homeText{
         font-family: Garamond, serif;
